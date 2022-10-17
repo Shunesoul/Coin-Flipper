@@ -1,0 +1,37 @@
+
+.header {
+    display: flex;
+    flex-direction: row;
+    padding: 4px;
+    border: solid darkblue 7px;
+    margin: 4px;
+    gap:10rem;
+}
+.header-links {
+    display:flex;
+    flex-direction: row;
+    padding: 4px;
+    margin: 4px;
+    margin-left: 10rem;
+    gap: 4rem;
+}
+.body {
+    padding: 300px;
+    display: flex;
+    justify-content: center;
+}
+.coin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 50%;
+    height: 20rem;
+    width:  20rem;
+}
+.button {
+
+}
+.button-text {
+
+}
